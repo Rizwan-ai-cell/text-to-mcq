@@ -32,5 +32,5 @@ This tool extracts text from **PDFs and text files**, processes it using **AI an
 
 ### **1️⃣ Clone the Repository**  
 ```bash
-git clone https://github.com/your-username/Text-to-MCQ-Generator.git
+git clone https://github.com/Rizwan-ai-cell/text-to-mcq.git
 cd Text-to-MCQ-Generator
